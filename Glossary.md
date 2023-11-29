@@ -1,6 +1,6 @@
 ## Glossary of AI Jargon and Terminology
 
-- **Activation Function**: *TB*
+- **Activation Function**: *TBD*
 - **Alignment**: *TBD*
 - **Attention**: *TBD*
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
