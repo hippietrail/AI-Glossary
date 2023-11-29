@@ -1,12 +1,12 @@
 ## Glossary of AI Jargon and Terminology
 
-- **Activation Function**: *TBD*
-- **AGI**: **A**rtificial **G**eneral **I**ntelligence. *TBD*
+- **Activation Function**: A function that determines the output of a neuron in a ***neural network***. It introduces ***non-linearity*** to the network. See ***ReLU***.
+- **AGI**: **A**rtificial **G**eneral **I**ntelligence. Highly autonomous systems that outperform humans at most economically valuable work. See also ***ASI***.
 - **Alignment**: The challenge of ensuring that an AI system's goals and behavior align with human values and intentions.
 - **Andrej Karpathy**: ***CNN***s. Director of AI at Tesla.
 - **Andrew Ng**: ***Machine Learning*** and ***Deep Learning***.
-- **ASI**: *TBD*
-- **Attention**: A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
+- **ASI**: **A**rtificial **S**uper**I**ntelligence. ***Artificial intelligence*** where machines surpass human intelligence in virtually every aspect.
+- **Attention**, **Attention Mechanism**: A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
 - **Backpropagation**: *TBD*
 - **Beam Search**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
@@ -16,7 +16,8 @@
 - **BPE**: **B**yte **P**air **E**ncoding. a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **ChatGPT**: *TBD*
 - **CNN**: **C**onvolutional **N**eural **N**etwork, a type of neural network architecture commonly used for image and video processing.
-- **Deep Learning**: *TBD*
+- **Deep Learning**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
+- **Diffusion**, **Diffusion Learning**: *TBD*
 - **Doomer**: *TBD*
 - **Eliezer Yudkowsky**: ***Alignment***
 - **Fine-tuning**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
@@ -45,13 +46,17 @@
 - **Prompt Engineer**, **Prompt Engineering**: *TBD*
 - **Q-learning**: *TBD*
 - **Reinforcement Learning**: *TBD*
+- **ReLU**: *TBD*
 - **RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback
 - **RNN**: **R**ecurrent **N**eural **N**etwork, a type of neural network architecture commonly used for sequential data processing such as audio and text.
 - **The Singularity**: *TBD*
 - **Stochastic Parrot**: *TBD*. Coined by Emily M. Bender in 2021.
+- **Style Transfer**: *TBD*
+- **Token**: *TBD*
 - **Transfer Learning**: *TBD*
 - **Transformer**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **Weights**: *TBD*. See also ***Biases***
 - **World Model**: *TBD*
+- **Word Embedding**: *TBD*
 - **Yann LeCun**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **Yoshua Bengio**: ***Deep Learning*** and ***Neural Networks***.
