@@ -1,7 +1,7 @@
 ## Glossary of AI Jargon and Terminology
 
 - **Activation Function**: *TBD*
-- **AGI**: *TBD*
+- **AGI**: **A**rtificial **G**eneral **I**ntelligence. *TBD*
 - **Alignment**: The challenge of ensuring that an AI system's goals and behavior align with human values and intentions.
 - **Andrej Karpathy**: ***CNN***s. Director of AI at Tesla.
 - **Andrew Ng**: ***Machine Learning*** and ***Deep Learning***.
@@ -11,11 +11,13 @@
 - **Backpropagation**: *TBD*
 - **Beam Search**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - **BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers: *TBD*
-- **Biases**: *TBD*. See also ***Weights**
+- **Biases**: *TBD*. See also ***Weights***
+- **Black Box**: *TBD*
 - **BPE**: **B**yte **P**air **E**ncoding. a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **ChatGPT**: *TBD*
 - **CNN**: **C**onvolutional **N**eural **N**etwork, a type of neural network architecture commonly used for image and video processing.
 - **Deep Learning**: *TBD*
+- **Doomer**: *TBD*
 - **Eliezer Yudkowsky**: ***Alignment***
 - **Fine-tuning**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
 - **GAN**: **G**enerative **A**dversarial **N**etwork: *TBD*
@@ -24,24 +26,32 @@
 - **Glitch Token**: A type of token in an ***LLM*** that can cause anomalous, unexpected, or nonsensical output apparently unrelated to the prompt. For example "SolidGoldMagikarp".
 - **GPT**: **G**enerative **P**re-trained **T**ransformer". A type of ***LLM*** that utilizes the ***Transformer*** architecture and is trained on a large corpus of text data. GPT models have been successful in various natural language processing tasks, including text generation, language translation, and question-answering.
 - **Guardrails**: A nontechnical umbrella term for various safety measures or constraints put in place to prevent undesirable outcomes or behaviors in AI systems.
+- **Hallucination**: *TBD*
 - **Hidden Layer**: *TBD*
 - **Hyperparameter**: *TBD*
 - **Ilya Sutskever**: ***Transformers***. Co-founder of ***OpenAI***.
-- **Inference**: *TBD**
-- **LLM**: **L**arge **L**anguage **M**odel.
+- **Inference**: *TBD*
+- **LLM**: **L**arge **L**anguage **M**odel. *TBD*
+- **LSTM**: **L**ong **S**hort-**T**erm **M**emory. *TBD*
 - **Loss Function**: *TBD*
 - **Machine Learning**: *TBD*
+- **Machine Translation**: *TBD*
 - **Neural Network**: *TBD*
+- **NLP**: **N**atural **L**anguage **P**rocessing. *TBD*
 - **OpenAI**: *TBD*
 - **Overfitting**: *TBD*. Less technically also referred to as *memorization*.
 - **Pre-training**: *TBD*
+- **Prompt**: *TBD*
+- **Prompt Engineer**, **Prompt Engineering**: *TBD*
 - **Q-learning**: *TBD*
 - **Reinforcement Learning**: *TBD*
 - **RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback
 - **RNN**: **R**ecurrent **N**eural **N**etwork, a type of neural network architecture commonly used for sequential data processing such as audio and text.
+- **The Singularity**: *TBD*
 - **Stochastic Parrot**: *TBD*. Coined by Emily M. Bender in 2021.
 - **Transfer Learning**: *TBD*
 - **Transformer**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **Weights**: *TBD*. See also ***Biases***
+- **World Model**: *TBD*
 - **Yann LeCun**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **Yoshua Bengio**: ***Deep Learning*** and ***Neural Networks***.
