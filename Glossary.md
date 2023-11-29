@@ -8,18 +8,18 @@
 - **ASI**: **A**rtificial **S**uper**I**ntelligence. ***Artificial intelligence*** where machines surpass human intelligence in virtually every aspect.
 - **Attention**, **Attention Mechanism**: A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
-- **Backpropagation**: *TBD*
+- **Backpropagation**: An algorithm used in neural networks to calculate the gradient of the ***loss function*** with respect to the parameters of the network. See ***Geoffrey Hinton***.
 - **Beam Search**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - **BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers: *TBD*
-- **Biases**: *TBD*. See also ***Weights***
-- **Black Box**: *TBD*
+- **Biases**: In an ***artiificial neural network***, parameters that add a constant value to the input. See also ***Weights***
+- **Black Box**: A model that is not easily understood by humans.
 - **BPE**: **B**yte **P**air **E**ncoding. a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
-- **ChatGPT**: *TBD*
+- **ChatGPT**: The first ***LLM*** that is capable of generating human-like text.
 - **CNN**: **C**onvolutional **N**eural **N**etwork, a type of neural network architecture commonly used for image and video processing.
 - **Deep Learning**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
 - **Diffusion**, **Diffusion Learning**: *TBD*
-- **Doomer**: *TBD*
-- **Eliezer Yudkowsky**: ***Alignment***
+- **Doomer**: A disparaging term used by AI optimists to describe AI pessimists.
+- **Eliezer Yudkowsky**: A prominent figure in ***Alignment***
 - **Fine-tuning**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
 - **GAN**: **G**enerative **A**dversarial **N**etwork: *TBD*
 - **Generative AI**: Algorithms or models that can create new content, including text, audio, or images.
@@ -27,36 +27,37 @@
 - **Glitch Token**: A type of token in an ***LLM*** that can cause anomalous, unexpected, or nonsensical output apparently unrelated to the prompt. For example "SolidGoldMagikarp".
 - **GPT**: **G**enerative **P**re-trained **T**ransformer". A type of ***LLM*** that utilizes the ***Transformer*** architecture and is trained on a large corpus of text data. GPT models have been successful in various natural language processing tasks, including text generation, language translation, and question-answering.
 - **Guardrails**: A nontechnical umbrella term for various safety measures or constraints put in place to prevent undesirable outcomes or behaviors in AI systems.
-- **Hallucination**: *TBD*
-- **Hidden Layer**: *TBD*
-- **Hyperparameter**: *TBD*
+- **Hallucination**: A nontechnical term for generated LLM output that is not based on fact.
+- **Hidden Layer**: A layer in a neural network that is not visible to the user.
+- **Hyperparameter**: Parameter that is not directly related to the model architecture.
 - **Ilya Sutskever**: ***Transformers***. Co-founder of ***OpenAI***.
-- **Inference**: *TBD*
-- **LLM**: **L**arge **L**anguage **M**odel. *TBD*
-- **LSTM**: **L**ong **S**hort-**T**erm **M**emory. *TBD*
-- **Loss Function**: *TBD*
+- **Inference**: The process of using a model to make predictions on unseen data.
+- **Language Model**: *TBD*
+- **LLM**: **L**arge **L**anguage **M**odel. A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data.
+- **LSTM**: **L**ong **S**hort-**T**erm **M**emory. A type of ***neural network*** architecture that is commonly used for sequence data processing.
+- **Loss Function**: In training a neural network, a function that measures how far the network's output is from the desired output.
 - **Machine Learning**: *TBD*
 - **Machine Translation**: *TBD*
 - **Neural Network**: *TBD*
 - **NLP**: **N**atural **L**anguage **P**rocessing. *TBD*
-- **OpenAI**: *TBD*
-- **Overfitting**: *TBD*. Less technically also referred to as *memorization*.
-- **Pre-training**: *TBD*
-- **Prompt**: *TBD*
-- **Prompt Engineer**, **Prompt Engineering**: *TBD*
+- **OpenAI**: AI company prominent for ***GPT***s.
+- **Overfitting**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
+- **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
+- **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
+- **Prompt Engineer**, **Prompt Engineering**: A person/the process of coming up with effective prompts for an ***LLM***.
 - **Q-learning**: *TBD*
 - **Reinforcement Learning**: *TBD*
-- **ReLU**: *TBD*
+- **ReLU**: A type of ***activation function*** that is used in neural networks to introduce non-linearity.
 - **RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback
 - **RNN**: **R**ecurrent **N**eural **N**etwork, a type of neural network architecture commonly used for sequential data processing such as audio and text.
-- **The Singularity**: *TBD*
-- **Stochastic Parrot**: *TBD*. Coined by Emily M. Bender in 2021.
-- **Style Transfer**: *TBD*
-- **Token**: *TBD*
+- **The Singularity**: The posited point in the future when AI will surpass human intelligence.
+- **Stochastic Parrot**: *TBD*. Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
+- **Style Transfer**: In image generation, a technique where a style image in used to modify an input image.
+- **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word.
 - **Transfer Learning**: *TBD*
 - **Transformer**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **Weights**: *TBD*. See also ***Biases***
 - **World Model**: *TBD*
-- **Word Embedding**: *TBD*
+- **Word Embedding**: A representation of a word or token as a set of numbers in a vector space.
 - **Yann LeCun**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **Yoshua Bengio**: ***Deep Learning*** and ***Neural Networks***.
