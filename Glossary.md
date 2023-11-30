@@ -19,6 +19,7 @@
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **[ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)**: The first ***LLM*** that is capable of generating human-like text.
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
+- **Context Window**: A window of input data that is used to predict the next word.
 - **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
 - [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): *TBD*
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
@@ -55,6 +56,7 @@
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
 - [**Prompt Engineer**, **Prompt Engineering**](https://en.wikipedia.org/wiki/Prompt_engineering): A person/the process of coming up with effective prompts for an ***LLM***.
+- **Prompt Injection**: *TBD*
 - **[Q-learning](https://en.wikipedia.org/wiki/Q-learning)**: *TBD*
 - **Q\***: *TBD*
 - **[Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)**: *TBD*
