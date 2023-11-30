@@ -23,6 +23,7 @@
 - [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): *TBD*
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
+- **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: *TBD*
 - **Fine-tuning**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): *TBD*
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
@@ -35,9 +36,11 @@
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
+- **In-Context Learning**: *TBD*
 - **Inference**: The process of using a model to make predictions on unseen data.
 - **Jailbreak**: *TBD*
 - **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: *TBD*
+- **Layer**: *TBD*
 - [**LLM**: **L**arge **L**anguage **M**odel](https://en.wikipedia.org/wiki/Large_language_model). A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data.
 - [**LSTM**: **L**ong **S**hort-**T**erm **M**emory](https://en.wikipedia.org/wiki/Long_short-term_memory). A type of ***neural network*** architecture that is commonly used for sequence data processing.
 - **[Loss Function](https://en.wikipedia.org/wiki/Loss_function)**: In training a neural network, a function that measures how far the network's output is from the desired output.
@@ -48,6 +51,7 @@
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
 - **[OpenAI](https://en.wikipedia.org/wiki/OpenAI)**: AI company prominent for ***GPT***s.
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
+- **Parameter**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
 - [**Prompt Engineer**, **Prompt Engineering**](https://en.wikipedia.org/wiki/Prompt_engineering): A person/the process of coming up with effective prompts for an ***LLM***.
@@ -58,6 +62,7 @@
 - **Reward Function**: *TBD*
 - [**RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback): *TBD*
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network), a type of neural network architecture commonly used for sequential data processing such as audio and text.
+- **Self-Attention**: _See: **Attention, Attention Mechanism**_
 - **SGD, Stochastic Gradient Descent**: *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
 - **[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)**: Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
@@ -70,3 +75,4 @@
 - **[Word Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of a word or token as a set of numbers in a vector space.
 - **[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **[Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)**: ***Deep Learning*** and ***Neural Networks***.
+- **Zero-Shot Learning**: *TBD*
