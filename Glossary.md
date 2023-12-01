@@ -32,13 +32,14 @@
 - **Glitch Token**: A type of token in an ***LLM*** that can cause anomalous, unexpected, or nonsensical output apparently unrelated to the prompt. For example "SolidGoldMagikarp".
 - [**GPT**: **G**enerative **P**re-trained **T**ransformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer). A type of ***LLM*** that utilizes the ***Transformer*** architecture and is trained on a large corpus of text data. GPT models have been successful in various natural language processing tasks, including text generation, language translation, and question-answering.
 - **Gradient Descent**: *TBD*
-- **Guardrails**: A nontechnical umbrella term for various safety measures or constraints put in place to prevent undesirable outcomes or behaviors in AI systems.
+- **Guardrails**: A nontechnical umbrella term for various safety measures that attempt to counter toxicity, bias, etc.
 - **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))**: A nontechnical term for generated LLM output that is not based on fact.
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
 - **In-Context Learning**: *TBD*
 - **Inference**: The process of using a model to make predictions on unseen data.
+- **Inner Alignment**: *TBD*
 - **Jailbreak**: *TBD*
 - **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: *TBD*
 - **Layer**: *TBD*
@@ -51,6 +52,7 @@
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
 - **[OpenAI](https://en.wikipedia.org/wiki/OpenAI)**: AI company prominent for ***GPT***s.
+- **Outer Alignment**: *TBD*
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
@@ -59,11 +61,13 @@
 - **Prompt Injection**: *TBD*
 - **[Q-learning](https://en.wikipedia.org/wiki/Q-learning)**: *TBD*
 - **Q\***: *TBD*
-- **[Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)**: *TBD*
+- [**Reinforcement Learning**, **RL**](https://en.wikipedia.org/wiki/Reinforcement_learning): *TBD*
 - **[ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))**: A type of ***activation function*** that is used in neural networks to introduce non-linearity.
 - **Reward Function**: *TBD*
 - [**RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback): *TBD*
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network), a type of neural network architecture commonly used for sequential data processing such as audio and text.
+- **Safeguards**: _See: **Guardrails**_
+- **Scaling**: *TBD*
 - **Self-Attention**: _See: **Attention, Attention Mechanism**_
 - **SGD, Stochastic Gradient Descent**: *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
