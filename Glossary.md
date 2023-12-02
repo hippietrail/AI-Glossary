@@ -48,13 +48,17 @@
 - **[Loss Function](https://en.wikipedia.org/wiki/Loss_function)**: In training a neural network, a function that measures how far the network's output is from the desired output.
 - **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**: *TBD*
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: *TBD*
+- **Memorization**: *TBD*
 - **Multimodal**, **Multimodality**: *TBD*
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
+- **One Shot Learning**: *TBD*
+- **OOD**, **Out-of-Distribution**: *TBD*
 - **[OpenAI](https://en.wikipedia.org/wiki/OpenAI)**: AI company prominent for ***GPT***s.
 - **Outer Alignment**: *TBD*
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
+- **P(doom)**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
 - [**Prompt Engineer**, **Prompt Engineering**](https://en.wikipedia.org/wiki/Prompt_engineering): A person/the process of coming up with effective prompts for an ***LLM***.
@@ -76,6 +80,7 @@
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
+- **Unsupervised Learning**: *TBD*
 - **[Weights](https://en.wikipedia.org/wiki/Weight_(disambiguation)#Science_and_technology)**: *TBD*. See also ***Biases***
 - **World Model**: *TBD*
 - **[Word Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of a word or token as a set of numbers in a vector space.
