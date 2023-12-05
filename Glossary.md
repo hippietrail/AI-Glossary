@@ -11,6 +11,7 @@
 - **ASI**: **A**rtificial **S**uper**I**ntelligence. ***Artificial intelligence*** where machines surpass human intelligence in virtually every aspect.
 - [**Attention**, **Attention Mechanism**](https://en.wikipedia.org/wiki/Attention_(machine_learning)): A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
+- **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: *TBD*
 - **[Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)**: An algorithm used in neural networks to calculate the gradient of the ***loss function*** with respect to the parameters of the network. See ***Geoffrey Hinton***.
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): *TBD*
@@ -76,9 +77,11 @@
 - **Self-Attention**: _See: **Attention, Attention Mechanism**_
 - [**SGD, Stochastic Gradient Descent**](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
+- **Sparse Autoencoder**: *TBD*
 - **[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)**: Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
 - **[Style Transfer](https://en.wikipedia.org/wiki/Neural_style_transfer)**: In image generation, a technique where a style image in used to modify an input image.
 - **[Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)**: *TBD*
+- **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
