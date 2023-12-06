@@ -2,19 +2,19 @@
 
 - **[Activation Function](https://en.wikipedia.org/wiki/Activation_function)**: A function that determines the output of a neuron in a ***neural network***. It introduces ***non-linearity*** to the network. See ***ReLU***.
 - [**AGI**: **A**rtificial **G**eneral **I**ntelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). Highly autonomous systems that outperform humans at most economically valuable work. See also ***ASI***.
-- **[AI winter](https://en.wikipedia.org/wiki/AI_winter)**: *TBD*
-- **[Algorithmic Bias](https://en.wikipedia.org/wiki/Algorithmic_bias)**: *TBD*
+- **[AI winter](https://en.wikipedia.org/wiki/AI_winter)**: A period of time when interest and funding for AI R&D is significantly reduced dut tofailing to meet expectations.
+- **[Algorithmic Bias](https://en.wikipedia.org/wiki/Algorithmic_bias)**: The presence of systematic and unfair biases in the outcomes produced by algorithms, typically due to biases present in the training data.
 - **[Alignment](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/AI_alignment)**: The challenge of ensuring that an AI system's goals and behavior align with human values and intentions.
-- **[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)**: Key figure in ***CNN***s. Director of AI at Tesla.
-- **[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)**: Key figure in ***Machine Learning*** and ***Deep Learning***.
-- [**ANN**, **A**rtificial **N**eural **N**etwork](https://en.wikipedia.org/wiki/Artificial_neural_network). *TBD*
+- **[Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy)**: Key figure in ***CNN***s and computer vision. Director of AI at Tesla.
+- **[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)**: Key figure in ***Machine Learning*** and ***Deep Learning***. Founder of DeepLearning.AI.
+- [**ANN**, **A**rtificial **N**eural **N**etwork](https://en.wikipedia.org/wiki/Artificial_neural_network). A computational model inspired by the structure of biological neural networks, consisting of an interconnected network of nodes or neurons.
 - **ASI**: **A**rtificial **S**uper**I**ntelligence. ***Artificial intelligence*** where machines surpass human intelligence in virtually every aspect.
 - [**Attention**, **Attention Mechanism**](https://en.wikipedia.org/wiki/Attention_(machine_learning)): A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
-- **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: *TBD*
+- **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: A type of neural network architecture used for ***unsupervised learning*** and dimensionality reduction.
 - **[Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)**: An algorithm used in neural networks to calculate the gradient of the ***loss function*** with respect to the parameters of the network. See ***Geoffrey Hinton***.
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
-- [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): *TBD*
+- [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): An architecture based on ***Transformer***s used in ***natural language processing***.
 - **Biases**: In an ***artiificial neural network***, parameters that add a constant value to the input. See also ***Weights***. Not to be confused with ***Algorithmic Bias***.
 - **[Black Box](https://en.wikipedia.org/wiki/Black_box#Science_and_technology)**: A model that is not easily understood by humans.
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
@@ -22,17 +22,17 @@
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
 - **Context Window**: A window of input data that is used to predict the next word.
 - **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
-- [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): *TBD*
+- [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): A technique used in ***Generative AI*** which involves learning how to remove blur/noise from images.
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
-- **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: *TBD*
+- **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
-- [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): *TBD*
+- [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
-- **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: ***Backpropagation***.
+- **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: Most known for his working developing ***Backpropagation***, a key breakthrough in ***deep learning***.
 - **Glitch Token**: A type of token in an ***LLM*** that can cause anomalous, unexpected, or nonsensical output apparently unrelated to the prompt. For example "SolidGoldMagikarp".
 - [**GPT**: **G**enerative **P**re-trained **T**ransformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer). A type of ***LLM*** that utilizes the ***Transformer*** architecture and is trained on a large corpus of text data. GPT models have been successful in various natural language processing tasks, including text generation, language translation, and question-answering.
-- **[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)**: *TBD*
+- **[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)**: An optimization algorithm used in ***machine learning*** to minimize the ***loss function*** of a model.
 - **Guardrails**: A nontechnical umbrella term for various safety measures that attempt to counter toxicity, bias, etc.
 - **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))**: A nontechnical term for generated LLM output that is not based on fact.
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
