@@ -61,6 +61,7 @@
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
 - **P(doom)**: *TBD*
+- **Positive transfer**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
 - [**Prompt Engineer**, **Prompt Engineering**](https://en.wikipedia.org/wiki/Prompt_engineering): A person/the process of coming up with effective prompts for an ***LLM***.
@@ -87,8 +88,8 @@
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
 - **[Weights](https://en.wikipedia.org/wiki/Weight_(disambiguation)#Science_and_technology)**: *TBD*. See also ***Biases***
-- **World Model**: *TBD*
+- **World Model**: Implicit representation of the world encoded in the ***weights*** and ***biases*** of a ***neural network*** captured through patterns in the data during training.
 - **[Word Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of a word or token as a set of numbers in a vector space.
 - **[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **[Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)**: ***Deep Learning*** and ***Neural Networks***.
-- **[Zero-Shot Learning](https://en.wikipedia.org/wiki/Zero-shot_learning)**: *TBD*
+- **[Zero-Shot Learning](https://en.wikipedia.org/wiki/Zero-shot_learning)**: A machine learning paradigm where a model is trained to recognize and classify objects or concepts that it has never seen before. It uses auxiliary information about the unseen classes to generalize from the known classes.
