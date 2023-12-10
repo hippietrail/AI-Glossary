@@ -19,6 +19,7 @@
 - **[Black Box](https://en.wikipedia.org/wiki/Black_box#Science_and_technology)**: A model that is not easily understood by humans.
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **[ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)**: The first ***LLM*** that is capable of generating human-like text.
+- **Classifier**: A ***machine learning*** model that can be used to classify data.
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
 - **Context Window**: A window of input data that is used to predict the next word.
 - **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
@@ -26,6 +27,7 @@
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
 - **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
+- **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: *TBD*
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
@@ -61,6 +63,7 @@
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
 - **P(doom)**: *TBD*
+- **Perceptron**: *TBD*
 - **Positive transfer**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
@@ -78,10 +81,12 @@
 - **Self-Attention**: _See: **Attention, Attention Mechanism**_
 - [**SGD, Stochastic Gradient Descent**](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
+- **Softmax**: *TBD*
 - **Sparse Autoencoder**: *TBD*
 - **[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)**: Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
 - **[Style Transfer](https://en.wikipedia.org/wiki/Neural_style_transfer)**: In image generation, a technique where a style image in used to modify an input image.
 - **[Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)**: *TBD*
+ - **System Prompt**: *TBD*
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
