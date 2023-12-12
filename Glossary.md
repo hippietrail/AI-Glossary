@@ -1,6 +1,7 @@
 ## Glossary of AI Jargon and Terminology
 
 - **[Activation Function](https://en.wikipedia.org/wiki/Activation_function)**: A function that determines the output of a neuron in a ***neural network***. It introduces ***non-linearity*** to the network. See ***ReLU***.
+- **Adaption Tuning**: _See: ***Fine-Tuning***_
 - [**AGI**: **A**rtificial **G**eneral **I**ntelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence). Highly autonomous systems that outperform humans at most economically valuable work. See also ***ASI***.
 - **[AI winter](https://en.wikipedia.org/wiki/AI_winter)**: A period of time when interest and funding for AI R&D is significantly reduced dut tofailing to meet expectations.
 - **[Algorithmic Bias](https://en.wikipedia.org/wiki/Algorithmic_bias)**: The presence of systematic and unfair biases in the outcomes produced by algorithms, typically due to biases present in the training data.
@@ -12,6 +13,7 @@
 - [**Attention**, **Attention Mechanism**](https://en.wikipedia.org/wiki/Attention_(machine_learning)): A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
 - **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: A type of neural network architecture used for ***unsupervised learning*** and dimensionality reduction.
+- **Autoregression**, **Autoregressive**: *TBD*
 - **[Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)**: An algorithm used in neural networks to calculate the gradient of the ***loss function*** with respect to the parameters of the network. See ***Geoffrey Hinton***.
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): An architecture based on ***Transformer***s used in ***natural language processing***.
@@ -24,11 +26,13 @@
 - **Context Window**: A window of input data that is used to predict the next word.
 - **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
 - [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): A technique used in ***Generative AI*** which involves learning how to remove blur/noise from images.
+- **Domain Adaption**: _See: ***Fine-Tuning***_
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
 - **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
+- **Embedding**: *TBD*
 - **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: *TBD*
-- **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training.
+- **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
 - **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: Most known for his working developing ***Backpropagation***, a key breakthrough in ***deep learning***.
@@ -43,6 +47,7 @@
 - **[In-Context Learning](https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning)**: *TBD*
 - **Inference**: The process of using a model to make predictions on unseen data.
 - **Inner Alignment**: *TBD*
+- **Instruction Tuning**: *TBD*
 - **Interpretability**: *TBD*
 - **Jailbreak**: *TBD*
 - **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: *TBD*
@@ -52,6 +57,7 @@
 - **[Loss Function](https://en.wikipedia.org/wiki/Loss_function)**: In training a neural network, a function that measures how far the network's output is from the desired output.
 - **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**: *TBD*
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: *TBD*
+- **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
 - [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): *TBD*
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
