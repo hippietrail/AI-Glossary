@@ -48,15 +48,16 @@
 - **Inference**: The process of using a model to make predictions on unseen data.
 - **Inner Alignment**: *TBD*
 - **Instruction Tuning**: *TBD*
-- **Interpretability**: *TBD*
-- **Jailbreak**: *TBD*
-- **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: *TBD*
-- **[Layer](https://en.wikipedia.org/wiki/Layer_(deep_learning))**: *TBD*
+- **Interpretability**: The degree to which we can understand the output of an ***LLM***.
+- **Jailbreak, Jailbreaking**: Circumventing the ***Guardrails*** of an ***LLM*** with cleverly designed ***prompts***.
+- **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: A computational model of human language built from statistical data.
+- **[Layer](https://en.wikipedia.org/wiki/Layer_(deep_learning))**: A set of artificial neurons that are not connected to each other but take input from the previous layer and pass their output to the next layer. Each layer may be seen as a level of generalization or abstraction.
 - [**LLM**: **L**arge **L**anguage **M**odel](https://en.wikipedia.org/wiki/Large_language_model). A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data.
-- [**LSTM**: **L**ong **S**hort-**T**erm **M**emory](https://en.wikipedia.org/wiki/Long_short-term_memory). A type of ***neural network*** architecture that is commonly used for sequence data processing.
+- **Logit**: *TBD*
 - **[Loss Function](https://en.wikipedia.org/wiki/Loss_function)**: In training a neural network, a function that measures how far the network's output is from the desired output.
+- [**LSTM**: **L**ong **S**hort-**T**erm **M**emory](https://en.wikipedia.org/wiki/Long_short-term_memory). A type of ***neural network*** architecture that is commonly used for sequence data processing.
 - **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**: *TBD*
-- **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: *TBD*
+- **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: Methods to translate text from one human language to another that may include ***NLP***, statistics and probability, or more advanced ***Deep learning*** techniques such as ***LLM***s.
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
 - [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): *TBD*
