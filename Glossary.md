@@ -30,10 +30,10 @@
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
 - **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
-- **Embedding**: *TBD*
-- **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: *TBD*
+- **Embedding**: See ***Word Embedding***
+- **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: A type of ***artificial neural network*** where information flows from the input layer, through any hidden layers, to the output layer with no feedback.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
-- **FOOM**: *TBD*
+- **FOOM**: *TBD*. See also ***Hard Takeoff***, ***Elizezer Yudkowsky***.
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
 - **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: Most known for his working developing ***Backpropagation***, a key breakthrough in ***deep learning***.
@@ -42,7 +42,7 @@
 - **[Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)**: An optimization algorithm used in ***machine learning*** to minimize the ***loss function*** of a model.
 - **Guardrails**: A nontechnical umbrella term for various safety measures that attempt to counter toxicity, bias, etc.
 - **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))**: A nontechnical term for generated LLM output that is not based on fact.
-- **Hard Takeoff**: *TBD*
+- **Hard Takeoff**: A scenario in which ***AGI*** rapidly surpasses human intelligence, potentially leading to an uncontrollable impact on society.
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
@@ -102,8 +102,8 @@
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
 - **[Weights](https://en.wikipedia.org/wiki/Weight_(disambiguation)#Science_and_technology)**: *TBD*. See also ***Biases***
-- **World Model**: Implicit representation of the world encoded in the ***weights*** and ***biases*** of a ***neural network*** captured through patterns in the data during training.
 - **[Word Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of a word or token as a set of numbers in a vector space.
+- **World Model**: Implicit representation of the world encoded in the ***weights*** and ***biases*** of a ***neural network*** captured through patterns in the data during training.
 - **[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)**: ***Deep Learning*** and ***CNN***s. Chief AI Scientist at Facebook.
 - **[Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)**: ***Deep Learning*** and ***Neural Networks***.
 - **[Zero-Shot Learning](https://en.wikipedia.org/wiki/Zero-shot_learning)**: A machine learning paradigm where a model is trained to recognize and classify objects or concepts that it has never seen before. It uses auxiliary information about the unseen classes to generalize from the known classes.
