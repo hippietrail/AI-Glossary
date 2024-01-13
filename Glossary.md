@@ -24,6 +24,7 @@
 - **Classifier**: A ***machine learning*** model that can be used to classify data.
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
 - **Context Window**: A window of input data that is used to predict the next word.
+- **Deep Contrastive Network**: *TBD*
 - **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)**: A subfield of ***machine learning*** that focuses on the development and application of ***artificial neural networks*** with multiple layers.
 - [**Diffusion**, **Diffusion Model**](https://en.wikipedia.org/wiki/Diffusion_model): A technique used in ***Generative AI*** which involves learning how to remove blur/noise from images.
 - **Domain Adaption**: _See: ***Fine-Tuning***_
