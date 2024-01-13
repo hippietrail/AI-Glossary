@@ -14,7 +14,7 @@
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
 - **[Autodiff, Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)**: *TBD*
 - **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: A type of neural network architecture used for ***unsupervised learning*** and dimensionality reduction.
-- **[Autograd](https://en.wikipedia.org/wiki/Autograd)**: See ***Autodiff***.
+- **Autograd**: See ***Autodiff***.
 - **Autoregression**, **Autoregressive**: *TBD*
 - **[Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)**: An algorithm used in neural networks to calculate the gradient of the ***loss function*** with respect to the parameters of the network. See ***Geoffrey Hinton***.
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
