@@ -12,7 +12,7 @@
 - **ASI**: **A**rtificial **S**uper**I**ntelligence. ***Artificial intelligence*** where machines surpass human intelligence in virtually every aspect.
 - [**Attention**, **Attention Mechanism**](https://en.wikipedia.org/wiki/Attention_(machine_learning)): A mechanism in ***neural networks***, particularly in ***Transformer***-based models, to capture contextual relationships between words in an input sequence.
 - **Attention Head**: In the context of neural networks, attention heads refer to the individual components responsible for attending to different parts of the input sequence.
-- **[Autodiff, Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)**: *TBD*
+- **[Autodiff, Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)**: Techniques for evaluating the *partial derivative* of a function. Used for implementing ***Backpropagation*** in ***Neural Networks***. See also ***Chain Rule***.
 - **[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder)**: A type of neural network architecture used for ***unsupervised learning*** and dimensionality reduction.
 - **Autograd**: See ***Autodiff***.
 - **Autoregression**, **Autoregressive**: *TBD*
@@ -22,6 +22,7 @@
 - **Biases**: In an ***artiificial neural network***, parameters that add a constant value to the input. See also ***Weights***. Not to be confused with ***Algorithmic Bias***.
 - **[Black Box](https://en.wikipedia.org/wiki/Black_box#Science_and_technology)**: A model that is not easily understood by humans.
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
+- **[Chain Rule](https://en.wikipedia.org/wiki/Chain_rule)**: *TBD*
 - **[ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)**: The first ***LLM*** that is capable of generating human-like text.
 - **Classifier**: A ***machine learning*** model that can be used to classify data.
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
