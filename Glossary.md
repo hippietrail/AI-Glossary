@@ -86,6 +86,7 @@
 - **[Q\*](https://en.wikipedia.org/wiki/Q*)**: *TBD*
 - [**Reinforcement Learning**, **RL**](https://en.wikipedia.org/wiki/Reinforcement_learning): *TBD*
 - **[ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))**: A type of ***activation function*** that is used in neural networks to introduce non-linearity.
+- **Retrieval-Augmented Generation**, **RAG**: *TBD*
 - **Reward Function**: *TBD*
 - [**RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback): *TBD*
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network), a type of neural network architecture commonly used for sequential data processing such as audio and text.
