@@ -52,6 +52,7 @@
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
 - **[In-Context Learning](https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning)**: *TBD*
 - **Inference**: The process of using a model to make predictions on unseen data.
+- **Inference Kernel**: *TBD*
 - **Inner Alignment**: *TBD*
 - **Instruction Tuning**: *TBD*
 - **Interpretability**: The degree to which we can understand the output of an ***LLM***.
