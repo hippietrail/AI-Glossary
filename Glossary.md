@@ -50,7 +50,7 @@
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
-- **[In-Context Learning](https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning)**: *TBD*
+- [**In-Context Learning**, **ICL**](https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning): The ability of ***Large Language Models*** to learn from information in the input context without needing to update model parameters by updating the state of latent variables based on the context and conditioning on this when predicting the next output.
 - **Inference**: The process of using a model to make predictions on unseen data.
 - **Inference Kernel**: *TBD*
 - **Inner Alignment**: *TBD*
