@@ -93,6 +93,7 @@
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network): A type of neural network architecture commonly used for sequential data processing such as audio and text.
 - **Safeguards**: _See: **Guardrails**_
 - **[Scaling](https://en.wikipedia.org/wiki/Neural_scaling_law)**: *TBD*
+- **Scaling Hypothesis**: *TBD*
 - **Self-Attention**: _See: **Attention, Attention Mechanism**_
 - [**SGD, Stochastic Gradient Descent**](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
