@@ -67,7 +67,7 @@
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: Methods to translate text from one human language to another that may include ***NLP***, statistics and probability, or more advanced ***Deep learning*** techniques such as ***LLM***s.
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
-- [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): *TBD*
+- [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): Refers to AI technologies that can be trained on and make inferences on multiple kinds of data, such as images, audio, and video in addtion to text.
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
 - **One Shot Learning**: *TBD*
