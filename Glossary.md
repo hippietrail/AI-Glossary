@@ -38,6 +38,7 @@
 - **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: A type of ***artificial neural network*** where information flows from the input layer, through any hidden layers, to the output layer with no feedback.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
 - **FOOM**: *TBD*. See also ***Hard Takeoff***, ***Elizezer Yudkowsky***.
+- **Foundation Model**: *TBD*.
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
 - **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: Most known for his working developing ***Backpropagation***, a key breakthrough in ***deep learning***.
