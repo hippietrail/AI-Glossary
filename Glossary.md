@@ -38,7 +38,7 @@
 - **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: A type of ***artificial neural network*** where information flows from the input layer, through any hidden layers, to the output layer with no feedback.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
 - **FOOM**: *TBD*. See also ***Hard Takeoff***, ***Elizezer Yudkowsky***.
-- **Foundation Model**: *TBD*.
+- **Foundation Model**: The category of which the ***LLMs*** are the most well known member. They are not limited to text, but cover all modalities and work by segmenting data into ***Tokens*** or ***Patches***.
 - [**GAN**: **G**enerative **A**dversarial **N**etwork](https://en.wikipedia.org/wiki/Generative_adversarial_network): A type of ***machine learning*** model involving a ***generator*** AI and a ***discriminator*** AI. The former tries to generate realistic output the latter can't detect while the latter tries to detect whether input is real or generated.
 - **[Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)**: Algorithms or models that can create new content, including text, audio, or images.
 - **[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)**: Most known for his working developing ***Backpropagation***, a key breakthrough in ***deep learning***.
@@ -68,6 +68,7 @@
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: Methods to translate text from one human language to another that may include ***NLP***, statistics and probability, or more advanced ***Deep learning*** techniques such as ***LLM***s.
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
+- **Modality**: The type of data which a model uses, such as text, images, audio, and video. See also ***Multimodal***, ***Multimodality***.
 - [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): Refers to AI technologies that can be trained on and make inferences on multiple kinds of data, such as images, audio, and video in addtion to text.
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
@@ -77,6 +78,7 @@
 - **Outer Alignment**: *TBD*
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
+- **Patch**: The equivalent of the **Tokens** of an ***LLM*** for other ***Modalities*** of ***Foundation Model*** such as Audio, Speech, Video, etc.
 - **P(doom)**: *TBD*
 - **Perceptron**: *TBD*
 - **Positive transfer**: *TBD*
@@ -107,7 +109,7 @@
 - **Synthetic Data**: *TBD*
 - **System Prompt**: *TBD*
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
-- **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word.
+- **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See **Patch**.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
