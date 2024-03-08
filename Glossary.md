@@ -106,7 +106,7 @@
 - **[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)**: Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
 - **[Style Transfer](https://en.wikipedia.org/wiki/Neural_style_transfer)**: In image generation, a technique where a style image in used to modify an input image.
 - **[Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)**: *TBD*
-- **Synthetic Data**: Algorithmically generated data used for training and validating models.
+- **[Synthetic Data](https://en.wikipedia.org/wiki/Synthetic_data)**: Algorithmically generated data used for training and validating models.
 - **System Prompt**: *TBD*
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See **Patch**.
