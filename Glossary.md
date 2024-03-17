@@ -79,7 +79,7 @@
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
 - **Parameter**: *TBD*
 - **Patch**: The equivalent of the **Tokens** of an ***LLM*** for other ***Modalities*** of ***Foundation Model*** such as Audio, Speech, Video, etc.
-- **P(doom)**: *TBD*
+- **P(doom)**: The prior probability of AI causing an existential crisis for humanity.
 - **Perceptron**: *TBD*
 - **Positive transfer**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
