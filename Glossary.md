@@ -101,7 +101,7 @@
 - [**SGD, Stochastic Gradient Descent**](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
 - **Softmax**: *TBD*
-- **Sparse Autoencoder**: *TBD*
+- **[Sparse Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Sparse_autoencoder_(SAE))**: A type of ***Autoencoder*** inspired by the Sparse Coding Hypothesis in neuroscience, in which only a small number of neurons are activated at a time.
 - **State space model** (**SSM**): *TBD*
 - **[Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)**: Coined by Emily M. Bender in 2021. Disparaging term used of LLMs to refute that they may have any inherent world-building.
 - **[Style Transfer](https://en.wikipedia.org/wiki/Neural_style_transfer)**: In image generation, a technique where a style image in used to modify an input image.
