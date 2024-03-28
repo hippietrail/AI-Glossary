@@ -20,6 +20,7 @@
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): An architecture based on ***Transformer***s used in ***natural language processing***.
 - **Biases**: In an ***artiificial neural network***, parameters that add a constant value to the input. See also ***Weights***. Not to be confused with ***Algorithmic Bias***.
+- **The Bitter Lesson**: *TBD*
 - **[Black Box](https://en.wikipedia.org/wiki/Black_box#Science_and_technology)**: A model that is not easily understood by humans.
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). a sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **[Chain Rule](https://en.wikipedia.org/wiki/Chain_rule)**: A concept in calculus used by ***Autodiff*** for finding the derivatives which is essential in ***Backpropagation***.
