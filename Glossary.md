@@ -70,6 +70,7 @@
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
 - **Modality**: The type of data which a model uses, such as text, images, audio, and video. See also ***Multimodal***, ***Multimodality***.
+-**Multi-Head Attention**: *TBD*. See also ***Attention***, ***Attention Head***.
 - [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): Refers to AI technologies that can be trained on and make inferences on multiple kinds of data, such as images, audio, and video in addtion to text.
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
@@ -110,7 +111,7 @@
 - **[Synthetic Data](https://en.wikipedia.org/wiki/Synthetic_data)**: Algorithmically generated data used for training and validating models.
 - **System Prompt**: *TBD*
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
-- **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See **Patch**.
+- **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See also **Patch**.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
