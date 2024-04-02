@@ -60,6 +60,7 @@
 - **Interpretability**: The degree to which we can understand the output of an ***LLM***.
 - **Jailbreak, Jailbreaking**: Circumventing the ***Guardrails*** of an ***LLM*** with cleverly designed ***prompts***.
 - **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: A computational model of human language built from statistical data.
+- **[Latent Space](https://en.wikipedia.org/wiki/Latent_space)**: *TBD*.
 - **[Layer](https://en.wikipedia.org/wiki/Layer_(deep_learning))**: A set of artificial neurons that are not connected to each other but take input from the previous layer and pass their output to the next layer. Each layer may be seen as a level of generalization or abstraction.
 - [**LLM**: **L**arge **L**anguage **M**odel](https://en.wikipedia.org/wiki/Large_language_model). A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data. The most well-known category of ***Foundation Model***.
 - **Logit**: *TBD*
