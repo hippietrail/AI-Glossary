@@ -35,7 +35,7 @@
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
 - **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
-- **Embedding**: See ***Word Embedding***
+- **Embedding**: See also ***Latent Space***, ***Latent Variable***, ***Word Embedding***
 - **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: A type of ***artificial neural network*** where information flows from the input layer, through any hidden layers, to the output layer with no feedback.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
 - **FOOM**: *TBD*. See also ***Hard Takeoff***, ***Elizezer Yudkowsky***.
@@ -60,7 +60,8 @@
 - **Interpretability**: The degree to which we can understand the output of an ***LLM***.
 - **Jailbreak, Jailbreaking**: Circumventing the ***Guardrails*** of an ***LLM*** with cleverly designed ***prompts***.
 - **[Language Model](https://en.wikipedia.org/wiki/Language_model)**: A computational model of human language built from statistical data.
-- **[Latent Space](https://en.wikipedia.org/wiki/Latent_space)**: *TBD*.
+- **[Latent Space](https://en.wikipedia.org/wiki/Latent_space)**: *TBD*. See also **Embedding**.
+- **[Latent Variable](https://en.wikipedia.org/wiki/Latent_variable)**: *TBD*. See also **Embedding**.
 - **[Layer](https://en.wikipedia.org/wiki/Layer_(deep_learning))**: A set of artificial neurons that are not connected to each other but take input from the previous layer and pass their output to the next layer. Each layer may be seen as a level of generalization or abstraction.
 - [**LLM**: **L**arge **L**anguage **M**odel](https://en.wikipedia.org/wiki/Large_language_model). A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data. The most well-known category of ***Foundation Model***.
 - **Logit**: *TBD*
