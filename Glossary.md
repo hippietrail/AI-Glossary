@@ -72,7 +72,8 @@
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
 - **Modality**: The type of data which a model uses, such as text, images, audio, and video. See also ***Multimodal***, ***Multimodality***.
--**Multi-Head Attention**: *TBD*. See also ***Attention***, ***Attention Head***.
+- **Model Collapse**: *TBD*.
+- **Multi-Head Attention**: *TBD*. See also ***Attention***, ***Attention Head***.
 - [**Multimodal**, **Multimodality**](https://en.wikipedia.org/wiki/Multimodal_learning): Refers to AI technologies that can be trained on and make inferences on multiple kinds of data, such as images, audio, and video in addtion to text.
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
