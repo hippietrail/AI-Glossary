@@ -79,7 +79,8 @@
 - **[Neural Network](https://en.wikipedia.org/wiki/Neural_network)**: *TBD*
 - [**NLP**: **N**atural **L**anguage **P**rocessing](https://en.wikipedia.org/wiki/Natural_language_processing). *TBD*
 - **One Shot Learning**: *TBD*
-- **OOD**, **Out-of-Distribution**: *TBD*
+- **OOD**, **O**ut-**o**f-Distribution: *TBD*
+- **OOCR**, **O**ut-**o**f-**C**ontext **R**easoning: *TBD*
 - **[OpenAI](https://en.wikipedia.org/wiki/OpenAI)**: AI company prominent for ***GPT***s.
 - **Outer Alignment**: *TBD*
 - **[Overfitting](https://en.wikipedia.org/wiki/Overfitting)**: *TBD*. Less technically also referred to as *memorization*. It is a situation in which the model learns the training data too well and fails to generalize to new data.
