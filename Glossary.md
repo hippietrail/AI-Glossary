@@ -72,6 +72,7 @@
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: Methods to translate text from one human language to another that may include ***NLP***, statistics and probability, or more advanced ***Deep learning*** techniques such as ***LLM***s.
 - **Maximum Likelihood Estimation**: *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
+- [**MoE**: **M**ixture **o**f **E**xperts](https://en.wikipedia.org/wiki/Mixture_of_experts)**: *TBD*
 - **Modality**: The type of data which a model uses, such as text, images, audio, and video. See also ***Multimodal***, ***Multimodality***.
 - **Model Collapse**: *TBD*.
 - **Multi-Head Attention**: *TBD*. See also ***Attention***, ***Attention Head***.
@@ -88,6 +89,7 @@
 - **Patch**: The equivalent of the **Tokens** of an ***LLM*** for other ***Modalities*** of ***Foundation Model*** such as Audio, Speech, Video, etc.
 - **P(doom)**: The prior probability of AI causing an existential crisis for humanity.
 - **Perceptron**: *TBD*
+- [**PoE**: **P**roduct **o**f **E**xperts](https://en.wikipedia.org/wiki/Product_of_experts): *TBD*
 - **Positive transfer**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
