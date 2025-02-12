@@ -109,7 +109,8 @@
 - **[Scaling](https://en.wikipedia.org/wiki/Neural_scaling_law)**: *TBD*
 - **Scaling Hypothesis**: *TBD*
 - **Self-Attention**: _See: **Attention, Attention Mechanism**_
-- [**SGD, Stochastic Gradient Descent**](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
+- [**SFT**: **S**upervised **F**ine-**T**uning](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback#Policy): *TBD*
+- [**SGD**: **S**tochastic **G**radient **D**escent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
 - **Softmax**: *TBD*
 - **[Sparse Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Sparse_autoencoder_(SAE))**: A type of ***Autoencoder*** inspired by the Sparse Coding Hypothesis in neuroscience, in which only a small number of neurons are activated at a time.
