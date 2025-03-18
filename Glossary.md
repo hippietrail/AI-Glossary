@@ -98,6 +98,7 @@
 - **Prompt Injection**: *TBD*
 - **[Q-learning](https://en.wikipedia.org/wiki/Q-learning)**: *TBD*
 - **[Q\*](https://en.wikipedia.org/wiki/Q*)**: *TBD*
+ **Reasoning**: *TBD*
 - [**Reinforcement Learning**, **RL**](https://en.wikipedia.org/wiki/Reinforcement_learning): *TBD*
 - **[ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))**: A type of ***activation function*** that is used in neural networks to introduce non-linearity.
 - **Retrieval-Augmented Generation**, **RAG**: *TBD*
