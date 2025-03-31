@@ -127,6 +127,7 @@
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
+- **[Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding)**: *TBD*
 - **[Weights](https://en.wikipedia.org/wiki/Weight_(disambiguation)#Science_and_technology)**: *TBD*. See also ***Biases***
 - **[Word Embedding](https://en.wikipedia.org/wiki/Word_embedding)**: A representation of a word or token as a set of numbers in a vector space.
 - **World Model**: Implicit representation of the world encoded in the ***weights*** and ***biases*** of a ***neural network*** captured through patterns in the data during training.
