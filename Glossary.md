@@ -72,8 +72,9 @@
 - **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**: *TBD*
 - **[Machine Translation](https://en.wikipedia.org/wiki/Machine_translation)**: Methods to translate text from one human language to another that may include ***NLP***, statistics and probability, or more advanced ***Deep learning*** techniques such as ***LLM***s.
 - **Maximum Likelihood Estimation**: *TBD*
+- [**MCP**: **M**odel **C**ontext **P**rotocol](https://docs.anthropic.com/en/docs/agents-and-tools/mcp): *TBD*
 - **Memorization**: See also ***Overfitting***. *TBD*
-- [**MoE**: **M**ixture **o**f **E**xperts](https://en.wikipedia.org/wiki/Mixture_of_experts)**: *TBD*
+- [**MoE**: **M**ixture **o**f **E**xperts](https://en.wikipedia.org/wiki/Mixture_of_experts): *TBD*
 - **Modality**: The type of data which a model uses, such as text, images, audio, and video. See also ***Multimodal***, ***Multimodality***.
 - **Model Collapse**: *TBD*.
 - **Multi-Head Attention**: *TBD*. See also ***Attention***, ***Attention Head***.
