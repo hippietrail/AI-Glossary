@@ -21,7 +21,7 @@
 - **[Beam Search](https://en.wikipedia.org/wiki/Beam_search)**: A search algorithm used in natural language processing tasks, such as machine translation or text generation, to find the most likely sequence of words given a set of candidate options.
 - [**BERT**: **B**idirectional **E**ncoder **R**epresentations from **T**ransformers](https://en.wikipedia.org/wiki/BERT_(language_model)): An architecture based on ***Transformer***s used in ***natural language processing***.
 - **Biases**: In an ***artificial neural network***, parameters that add a constant value to the input. See also ***Weights***. Not to be confused with ***Algorithmic Bias***.
-- **The Bitter Lesson**: *TBD*
+- **[The Bitter Lesson](https://en.wikipedia.org/wiki/Bitter_lesson)**: A 2019 observation by ***Richard Sutton*** that general methods leveraging computation at scale, such as ***search*** and ***learning***, ultimately outperform approaches based on domain-specific knowledge. The lesson concludes that AI breakthroughs historically come from scaling computation rather than encoding human expertise.
 - **[Black Box](https://en.wikipedia.org/wiki/Black_box#Science_and_technology)**: A model that is not easily understood by humans.
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). A sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **[Chain Rule](https://en.wikipedia.org/wiki/Chain_rule)**: A concept in calculus used by ***Autodiff*** for finding the derivatives which is essential in ***Backpropagation***.
@@ -66,7 +66,7 @@
 - **[Latent Variable](https://en.wikipedia.org/wiki/Latent_variable)**: *TBD*. See also **Embedding**.
 - **[Layer](https://en.wikipedia.org/wiki/Layer_(deep_learning))**: A set of artificial neurons that are not connected to each other but take input from the previous layer and pass their output to the next layer. Each layer may be seen as a level of generalization or abstraction.
 - [**LLM**: **L**arge **L**anguage **M**odel](https://en.wikipedia.org/wiki/Large_language_model). A type of ***Language Model*** that uses the ***Transformer*** architecture and is trained on a large corpus of text data. The most well-known category of ***Foundation Model***.
-- **Logit**: *TBD*
+- **Logit**: The raw, unnormalized numerical score output by a neural network before applying an ***activation function*** such as ***softmax*** or ***sigmoid***. ***Logits*** can range from negative to positive infinity and are transformed into probabilities for interpretation in classification tasks.
 - **[Loss Function](https://en.wikipedia.org/wiki/Loss_function)**: In training a neural network, a function that measures how far the network's output is from the desired output.
 - [**LSTM**: **L**ong **S**hort-**T**erm **M**emory](https://en.wikipedia.org/wiki/Long_short-term_memory). A type of ***neural network*** architecture that is commonly used for sequence data processing.
 - **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**: *TBD*
@@ -122,7 +122,7 @@
 - **[Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)**: *TBD*
 - **[Synthetic Data](https://en.wikipedia.org/wiki/Synthetic_data)**: Algorithmically generated data used for training and validating models.
 - **System Prompt**: *TBD*
-- **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: *TBD*
+- **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: A hyperparameter that controls the randomness of an ***LLM***'s output by scaling the ***logits*** before applying ***softmax*** during token sampling. Lower temperatures (close to 0) produce more deterministic and focused outputs, while higher temperatures (above 1) increase randomness and diversity.
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See also **Patch**.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
