@@ -38,7 +38,7 @@
 - **Doomer**, **Doomerism**: A disparaging term used by AI optimists to describe AI pessimists.
 - **[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)**: A prominent figure in ***Alignment***
 - **[ELIZA](https://en.wikipedia.org/wiki/ELIZA)**: A very early and simplistic ***natural language processing*** chatbot from the 1960s that nonetheless fooled many people into thinking it was human.
-- **Embedding**: See also ***Latent Space***, ***Latent Variable***, ***Word Embedding***
+- **Embedding**: A continuous vector representation of discrete data (words, tokens, images, etc.) in a learned vector space. See also ***Latent Space***, ***Latent Variable***, ***Word Embedding***
 - **Epic**: In agentic AI, a large complex goal or task that an AI agent breaks down into smaller sub-tasks or steps to solve. Borrowed from software development terminology, where an epic is a large body of work.
 - **[Feedforward Neural Network](https://en.wikipedia.org/wiki/Feedforward_neural_network)**: A type of ***artificial neural network*** where information flows from the input layer, through any hidden layers, to the output layer with no feedback.
 - **[Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))**: The process of further training a pre-trained model on a specific task or dataset to improve its performance by updating the its parameters based on the new data while retaining the knowledge learned during pre-training. Also known as: ***Adaption Tuning***, ***Domain Adaption***
