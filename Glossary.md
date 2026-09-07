@@ -53,6 +53,7 @@
 - **Guardrails**: A nontechnical umbrella term for various safety measures that attempt to counter toxicity, bias, etc.
 - **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))**: A nontechnical term for generated LLM output that is not based on fact.
 - **Hard Takeoff**: A scenario in which ***AGI*** rapidly surpasses human intelligence, potentially leading to an uncontrollable impact on society.
+- **Harness**: *TBD*
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
@@ -108,6 +109,7 @@
 - **Reward Function**: *TBD*
 - **Reward Hacking**: *TBD*
 - [**RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback): One of the ***Guardrails*** that is part of the ***Fine-Tuning*** process that attempts to align a trained model to human values and preferences. See **Alignment**.
+- **RLVR**: **R**einforcement **L**earning with **V**erified **R**ewards: *TBD*
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network): A type of neural network architecture commonly used for sequential data processing such as audio and text.
 - **Safeguards**: _See: **Guardrails**_
 - **[Scaling](https://en.wikipedia.org/wiki/Neural_scaling_law)**: *TBD*
