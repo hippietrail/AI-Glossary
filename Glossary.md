@@ -53,7 +53,7 @@
 - **Guardrails**: A nontechnical umbrella term for various safety measures that attempt to counter toxicity, bias, etc.
 - **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))**: A nontechnical term for generated LLM output that is not based on fact.
 - **Hard Takeoff**: A scenario in which ***AGI*** rapidly surpasses human intelligence, potentially leading to an uncontrollable impact on society.
-- **Harness**: *TBD*
+- **[Harness](https://en.wikipedia.org/wiki/Agent_harness)**: A standardized software framework or test suite used to evaluate and benchmark the performance, safety, or capabilities of an ***LLM***.
 - **Hidden Layer**: A layer in a neural network that is not visible to the user.
 - **[Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning))**: Parameter that is not directly related to the model architecture.
 - **[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)**: ***Transformers***. Co-founder of ***OpenAI***.
@@ -118,6 +118,7 @@
 - [**SFT**: **S**upervised **F**ine-**T**uning](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback#Policy): *TBD*
 - [**SGD**: **S**tochastic **G**radient **D**escent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent): *TBD*
 - **[The Singularity](https://en.wikipedia.org/wiki/Technological_singularity)**: The posited point in the future when AI will surpass human intelligence.
+- **Skill**: A packaged workflow of instructions, context, or logic that orchestrates multiple actions to achieve a complex goal. See also ***MCP***.
 - **Softmax**: *TBD*
 - **[Sparse Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Sparse_autoencoder_(SAE))**: A type of ***Autoencoder*** inspired by the Sparse Coding Hypothesis in neuroscience, in which only a small number of neurons are activated at a time.
 - **State space model** (**SSM**): *TBD*
@@ -128,6 +129,7 @@
 - **System Prompt**: *TBD*
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: A hyperparameter that controls the randomness of an ***LLM***'s output by scaling the ***logits*** before applying ***softmax*** during token sampling. Lower temperatures (close to 0) produce more deterministic and focused outputs, while higher temperatures (above 1) increase randomness and diversity.
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See also **Patch**.
+- **Tool Call**: A single, structured function invocation executed by an ***LLM*** to interact with an external system or perform a deterministic action.
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
