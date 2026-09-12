@@ -95,6 +95,7 @@
 - **P(doom)**: The prior probability of AI causing an existential crisis for humanity.
 - **Perceptron**: *TBD*
 - [**PoE**: **P**roduct **o**f **E**xperts](https://en.wikipedia.org/wiki/Product_of_experts): *TBD*
+- **Positional encoding**: Methods used in transformer models to encode the position of tokens in a sequence.
 - **Positive transfer**: *TBD*
 - **Pre-training**: A stage in which a model is trained on a large corpus of text data before being fine-tuned on a specific task or dataset.
 - **Prompt**: The text given to an ***LLM*** in the form of a question or command that the model will generate a response to.
@@ -111,6 +112,7 @@
 - [**RLHF**: **R**einforcement **L**earning from **H**uman **F**eedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback): One of the ***Guardrails*** that is part of the ***Fine-Tuning*** process that attempts to align a trained model to human values and preferences. See **Alignment**.
 - **RLVR**: **R**einforcement **L**earning with **V**erified **R**ewards: *TBD*
 - [**RNN**: **R**ecurrent **N**eural **N**etwork](https://en.wikipedia.org/wiki/Recurrent_neural_network): A type of neural network architecture commonly used for sequential data processing such as audio and text.
+- **RoPE**: **R**otary **Po**sitional **E**ncoding: A type of ***Positional encoding*** used in transformer models that encodes position information by rotating the representation vectors in a complex space.
 - **Safeguards**: _See: **Guardrails**_
 - **[Scaling](https://en.wikipedia.org/wiki/Neural_scaling_law)**: *TBD*
 - **Scaling Hypothesis**: *TBD*
