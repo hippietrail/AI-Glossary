@@ -26,6 +26,7 @@
 - [**BPE**: **B**yte **P**air **E**ncoding](https://en.wikipedia.org/wiki/Byte_pair_encoding). A sub-word tokenization technique used in natural language processing and machine learning. Introduced by Sennrich et al. in their paper "Neural Machine Translation of Rare Words with Subword Units" (2016)
 - **[Chain Rule](https://en.wikipedia.org/wiki/Chain_rule)**: A concept in calculus used by ***Autodiff*** for finding the derivatives which is essential in ***Backpropagation***.
 - **[ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)**: The first ***LLM*** that is capable of generating human-like text.
+- **[Clanker](https://en.wikipedia.org/wiki/Clanker)**: A derogatory slang term used to describe ***AI*** chatbots, automated systems, or robots. Originally from the *Star Wars* franchise, it was popularized online to express frustration with automation and AI-generated content.
 - **Classifier**: A ***machine learning*** model that can be used to classify data.
 - [**CNN**: **C**onvolutional **N**eural **N**etwork](https://en.wikipedia.org/wiki/Convolutional_neural_network): A type of neural network architecture commonly used for image and video processing.
 - **Compaction**: In agentic AI, the automatic summarization of an agent's conversation and work history to manage limited ***context window*** size. Preserves essential information and reasoning trajectory while removing irrelevant details, reducing costs and enabling agents to work on long-running tasks without degrading performance.
