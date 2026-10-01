@@ -133,6 +133,8 @@
 - **[Temperature](https://learnprompting.org/docs/basics/configuration_hyperparameters#temperature)**: A hyperparameter that controls the randomness of an ***LLM***'s output by scaling the ***logits*** before applying ***softmax*** during token sampling. Lower temperatures (close to 0) produce more deterministic and focused outputs, while higher temperatures (above 1) increase randomness and diversity.
 - **Token**: A unit of information in an ***LLM*** that roughly corresponds to a word in the vocabulary but is very often only part of a word. See also **Patch**.
 - **Tool Call**: A single, structured function invocation executed by an ***LLM*** to interact with an external system or perform a deterministic action.
+- **Top-k**: *TBD*
+- **Top-p**: *TBD*
 - **[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning)**: *TBD*
 - **[Transformer](https://en.wikipedia.org/wiki/Transformer_(machine-learning_model))**: A ***neural network*** architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). It has become a popular model for various natural language processing tasks. The Transformer architecture utilizes self-attention mechanisms to capture contextual relationships between words in an input sequence, enabling effective modeling of long-range dependencies.
 - **[Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)**: *TBD*
